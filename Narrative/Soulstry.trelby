@@ -1,0 +1,1132 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:801
+Cursor/Column:55
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,Soulstry
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nWill Nations
+#Title-String 15.000000,248.460000,12,,Courier,,817-296-5864\nwillnationsdev@gmail.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\Over blackness:
+._Avalyn (v.o.)
+>:For as long as I can remember, I've
+.:been suffocating.
+..A very brief pause.
+._AVALYN
+.:No...Mo-MOM!
+.\Int. Avalyn's dormroom - night
+>.AVALYN ZINDLER (16) lunges forward in bed, gasping for air.
+>.She has scorched waist-length red hair, green eyes, and a
+..white, plain nightgown. A cold sweat flushes her face.
+>.A small translucent MIND'S EYE CRYSTAL nestled in her
+>.forehead between her eyebrows glows brightly. Its crimson
+..glare lights up the dark.
+>.A surprised face peeks out of a mangled set of blankets
+>.across the room revealing Avalyn's roommate, JAYNA SIMMONS
+>.(16), with identical outfit and Mind's Eye crystal covering
+..her brown skin.
+._Jayna
+.:Hey, you alright?
+>.Avalyn's jagged breathing stings, keeping her from
+>.responding immediately. She nods weakly and then rests her
+..head in her hands, applying pressure against the crystal.
+..Gradually, she starts to slow down her breathing...
+>.The room is plain and organized, meeting the standards of a
+>.military living space. A pair of desks, closets, beds, and
+>.bedside tables fill it out with a single door on the far
+..wall.
+._AVALYN (V.O.)
+>:Every breath consumed is a risk
+>:taken, a part of myself that yearns
+.:for independence.
+>.The glow begins to fade, and the crystal gradually pulls
+..back to a clear dormant state similar to Jayna's.
+.....and then on one final deep breath...
+./CUT TO:
+.\Ext. Shooting range, rahz military academy - day
+>.Avalyn cooly exhales, opening her closed eyes. Beside her
+>.stands Jayna, along with other cadets, all with stern,
+..focused eyes locked forward.
+>.Guards with rifles at the hip are stationed behind several
+>.of the shooting lanes a good 10 feet, ready for whatever was
+..to happen in the coming minutes.
+>.DRILL SARGEANT ROGER TYRELL (56), stands before them all,
+>.composed, weathered, scars on his face, gruff white beard,
+>.flawless grey and white uniform, bold blue eyes, and a
+..silver watch on his right wrist.
+._TYRELL
+>:Welcome to the final stage of your
+>:exam cadets. You'll be Evo-firing.
+>:Handgun components and Soulcore
+.:power source are provided.
+>.He points at a table beside him filled with closed
+>.briefcases and individually cloth-wrapped SOULCORES,
+>.fist-sized, spherical, halfway-transparent crystals void of
+..color.
+._DRILL SARGEANT TYRELL
+>:Grades will be based on speed,
+>:evocation, and precision. Should
+>:you summon, you will fail
+>:immediately. You have 3 minutes.
+.:Go.
+..He starts a timer on his watch.
+>.Avalyn approaches the table along with the others and grabs
+>.a handgun case with her left hand. In her right, she picks
+..up a Soulcore and looks into it.
+>.Staring right back is a gleaming, menacing eye, composed of
+>.what looks like timeless, frozen dust. Avalyn's face turns
+..to a scowl.
+._AVALYN (V.O.)
+>:The independence to free myself of
+>:my past, present, and likely
+.:future.
+..Tyrell notices Avalyn's hesitation.
+._DRILL SARGEANT TYRELL
+.:Zindler. Is there a problem?
+>.Avalyn hurriedly turns away, not looking directly at the
+..instructor.
+._AVALYN
+.:No sir, no problem.
+.((to herself)
+.:Just bad memories.
+..AVALYN'S SHOOTING LANE
+>.She approaches one of the lanes, her name written on a sign
+..slapped against the wall.
+>.Avalyn places the materials on the table in front of her,
+..and opens the case.
+._DRILL SARGEANT TYRELL (O.S.)
+.:Ready!
+>.She looks up. There is an intense gaze in her eyes. She's
+>.switched gears, gauging the distance of the target 25 yards
+..ahead of her. Then she focuses on the parts below.
+..She takes another deep breath.
+..Tyrell, checking his watch.
+._DRILL SARGEANT TYRELL
+.:...Begin!
+>.A flurry of tinkering fills the range as each cadet hurries
+>.to assemble their given weapon. Avalyn moves with a speed
+..unlike the other trainees.
+>.Mag, Guard, Bolt, Pin, Trigger...In mere seconds, she has
+..arrived at the final piece: the Soulcore.
+..Lifting it to her face, she closes her eyes.
+._AVALYN
+.((whispering)
+.:A bullet, ripping through space.
+>.We hear the echo of something not there, something speeding
+..through the air.
+._AVALYN
+.((whispering)
+.:Power, control, destruction.
+..She begins to take a deep breath.
+._AVALYN (V.O.)
+>:The independence to conquer one's
+.:spirit...
+>.She exhales, only this time something is different. A
+>.spectral flow of energy seeps out of her mouth in
+>.exhalation, rushing, bonding to the Soulcore as if hungry
+..for it.
+>.As though given new life, the Soulcore erupts with an
+>.intense sapphire hue, the eye within emblazened in a
+..swirling storm of particles sizzling the chilly air.
+>.Without a moment to lose, Avalyn jams the Soulcore into an
+>.open slot on the weapon (where a magnum's chamber would
+..normally be) and takes aim.
+>.BANG. BANG-BANG. Each pull of the trigger, the Soulcore
+>.bursts with energy that collects in front, erupts along the
+>.barrel, and explodes out the other end, only to be
+..replenished by the Soulcore moments afterward.
+>.With each shot, steel-blue streaks of light singe down the
+>.lane, shredding the target and peppering it with scorched
+..charcoal wounds.
+>.Just slightly dropping her aim, Avalyn examines her
+..handiwork.
+>.Two lanes down, another NERVOUS CADET has finished piecing
+..together their gun.
+._AVALYN (V.O.)
+.:...or to accept its ravaging maw.
+>.As the cadet breathes in, clearly uncertain, their Mind's
+>.Eye glows crimson. They breathe into their Soulcore, but the
+>.outflow of energy sweeps past the dust-filled gem, flooding
+..his lane and expanding into its own dust cloud.
+>.In the center of the cloud, one can make out a pair of
+>.yellow eyes gradually materializing. Then a sharp jaw
+..emerges from the depths of the dust.
+>.As the jaw opens up, a SCREECHING CRESCENDO as of incoming
+>.artillery can be heard. The dust cloud immediately begins
+>.collapsing into a central point. A summoning: the birth of a
+..SPIRIT is coming.
+>.Several cadets panic. Screaming. Shuffling. The armed guards 
+..at the edge immediately begin readying their weapons.
+>.The cadet who cast it is stunned, terror in his eyes. His
+..Mind's Eye is searing his forehead, but he can't move.
+>.Avalyn's turns, and fires another projectile of blue energy,
+>.piercing the spectral mass and triggering a SCREECH of pain
+..from the manifesting spirit.
+>.A brief moment, and then BOOM. An explosion electrifies the
+..dust cloud, disintegrating every particle.
+>.Escaped steam spews from the side of her handgun, marking
+>.the end of power flow. The blue glow within the Soulcore
+>.dies and the vibrant eye within once again reverts to a look
+..of frozen dust.
+..Avalyn lowers her weapon, and enjoys a sigh of satisfaction.
+._DRILL SARGEANT TYRELL (O.S.)
+.:I counted 10 shots Private Zindler.
+>.Avalyn turns around to see the drill sargeant approaching
+..her, hands behind his back. Avalyn immediately salutes.
+._Tyrell
+.:Most impressive.
+..He then shouts at the rest of the cadets.
+._DRILL SARGEANT TYRELL
+>:For those of you finished, well
+>:done! You may exit at your leisure.
+>:Otherwise, return to your stations!
+.:The exam will resume in 2 minutes.
+>.As cadets scramble to reposition themselves, Tyrell faces
+..Avalyn once more.
+._tyrell
+.:Eager to enter the field?
+..Tyrell grins at her.
+._AVALYN
+>:Yes sir. To join my brother and
+.:honor my father's work.
+..He nods, understanding.
+._DRILL SARGEANT TYRELL
+>:Of course. They've both been
+>:integral to this country's success
+>:in the war, and your brother
+>:especially since I trained him. Can
+.:I expect the same from you?
+..Avalyn grins in response.
+._AVALYN
+.:I hope to make you proud sir.
+..Tyrell gives a gruff chuckle and walks back to the sideline.
+._DRILL SARGEANT TYRELL
+>:Woods! Excellent job promoting your
+>:classmate. Now get out of here!
+.:You're done.
+>.Avalyn makes her way to the exit, showing a small smile. A
+..deep breath in, and-
+./CUT TO:
+..INT. PRESENTATION ROOM, RAHZ MILITARY ACADEMY - DAY
+..Avalyn exhales with a smile.
+>.She stands among her peers in a large auditorium, facing a
+>.stage where instructors and academy administrators and other
+..military personnel are seated.
+>.Two large banners on either side of the stage bear the mark
+>.of Rahz: set against a white background, a magnificent
+>.winged man, made visible solely through a deep black
+..outline, cradles a sphere containing a menacing red eye.
+._DRILL SARGEANT TYRELL (O.S.)
+.((announcing)
+.:Private Avalyn Zindler!
+>.Avalyn steps forward to greet the summons, and a cacophonous
+>.crowd of applause echoes around the hall as she marches onto
+..the stage.
+>.Tyrell, waiting for her halfway down the stage, pulls out a
+>.thin cylinder casing from among several on a table and
+>.proffers it as she approaches. She bows to accept the
+..cylinder and then steps in to shake Tyrell's hand.
+._DRILL SARGEANT TYRELL
+.((whispering)
+>:Welcome to the Corp Private
+.:Zindler. We're lucky to have you.
+._AVALYN
+.((whispering)
+.:Thank you sir.
+..She breaks the hand shake and salutes.
+._AVALYN
+.:It's been an honor, sir.
+.\Ext. Rahz southeast sector - day
+>.Avalyn and Jayna are in uniform, walking along the streets
+>.of Rahz. It's busy and there's a decent number of people on
+..the sidewalks, each with a Mind's Eye crystal.
+>.The city looks relatively clean. The roads are all paved,
+..and 1920s age cars sputter along.
+>.To Avalyn's right, a group of kids are playing in a park,
+>.complete with a playground. Parents and babysitters watch
+..nearby on benches. 
+>.The adults and many of the older children bear identical
+>.crystals in their foreheads, but some of the younger kids do
+..not.
+..Jayna stretches her arms out into the sky.
+._JAYNA
+.:I can't believe we're done!
+.((sighs)
+>:I'm ready to just get out there on
+>:the frontline. Gotta distinguish
+.:myself soon.
+._AVALYN
+.((snickering)
+>:The "frontline"? It's a culture
+>:war. Half the battle is being
+.:fought on their own turf.
+..Avalyn gestures all around them.
+._avalyn
+>:We're surrounded on all sides by
+.:complete madness.
+._JAYNA
+>:You got that right. Wasn't THIS
+>:area annexed only last year? So far
+>:as I can tell, summoning is just
+.:history here now.
+>.As they glance around, they can see a variety of devices all
+..powered by the ubiquitous Soulcores. For example...
+>.A CAMERAMAN stands on a bridge breathing into a Soulcore
+>.embedded in a Kodak-like camera on a stand before taking a
+..photo of a posing family.
+>.TEENAGERS are in a nearby soccer field, kicking a ball
+>.around. 4 silver poles stand just outside the field's
+..corners about two feet off the ground.
+>.A stray kick sends the ball flying outside. The two corner
+>.poles for that side of the field light up, and the ball
+>.immediately stops in mid-air before exiting the field, a
+..pink aura surrounding it.
+>.One of the kids grabs it and the aura disappears. They toss
+..it back in overhead and the game resumes.
+>.Avalyn and Jayna admire the sight while walking until their
+..alerted by a rapidly growing whirring sound.
+._HOVERBOARD KID (V.O.)
+.:Excuse me!
+>.A kid is flying down the sidewalk on a hoverboard, a green
+>.aura emitting from a pointed control device resting in his
+..hand.
+>.At the same time, a car is driving along the road coming
+..their way.
+>.Jayna moved to step out of the way, but there wasn't enough
+..time.
+>.Just as the car is sweeping by, the kid hovers onto the side
+>.of the car and drives beside Jayna. He's reaching the end of
+..the car though.
+>.He pushes himself off the board, leaping back towards the
+>.sidewalk. He grips the controls harder and the green aura
+>.bursts for a moment. Suddenly, the abandoned board flies
+..back under his feet as he lands.
+..The kid fist pumps as he speeds down the concrete.
+._Jayna
+.:Be careful you crazy punk!
+..She points at the kid.
+._Jayna
+>:Suppose we've got your father to
+.:thank for all this.
+.((sarcastic headline)
+>:Meldrick Zindler, Chief Soulgineer
+.:of Rahz!
+._AVALYN
+>:Now wait. He may have designed the
+>:Soulcore and Mind's Eye crystals,
+>:but this country is entirely beyond
+>:his expectations. Even when I do
+>:see him, he'll suddenly start going
+>:on and on about how excited he is
+>:with the new ways So-And-So is
+>:changing Rahz for the better. Dad
+.:was simply the enabler.
+._JAYNA
+>:Uh-huh. Well one of these days,
+>:could you ask him to build a Mind's
+>:Eye that actively scratches my
+>:back, rather than scorching my
+>:head? Clears negative thoughts just
+.:as quickly.
+..Avalyn laughs.
+._AVALYN
+>:I'll be sure to bring it up at our
+.:next family dinner,
+.((darkly)
+.:whenever that happens.
+>.Jayna puts her arm around Avalyn, hugging her a bit, and the
+>.two continue walking leisurely passed the city's various
+..shops and venues, revealing more of the city's daily life.
+..Eventually they arrive at...
+.\ext. 23RD PRECINCT military police station - day
+>.The building stands 3-stories tall and a block wide, an
+>.outlier amongst the smaller 1-story buildings surrounding
+>.it. The police station has several cars parked out front,
+..also 1920s style.
+>.A few people are heading in and out of the building,
+..officers, detectives, and couriers.
+>.Criminals are escorted among them, hands bound behind them
+>.with a unique gagging device blocking their nose and mouth
+..save for screened air slits.
+._AVALYN
+.:Ready for the first day?
+._JAYNA
+.:You betcha.
+..The two walk inside.
+>\Int. chief's office, 23RD PRECINCT military police station -
+.\day
+>.Avalyn and Jayna stand at attention in a messy office.
+>.Behind the desk sits the police chief MAJOR BILL KING (52)
+>.leaning back in a chair. Bald, brown mustache, glasses, and
+..a tired look about him, his eyes are locked on an open file.
+._AVALYN
+>:Private Zindler and Private
+>:Simmons, reporting for duty as
+.:ordered, sir.
+._MAJOR King
+>:At ease ladies. Welcome and all
+>:that. Not a fan of formalities,
+.:'least when I can help it.
+..They relaxed, though uneasily, looking a little confused.
+._MAJOR King
+.:You trained on Cutters?
+._Avalyn
+>:No sir. The pistols we used were
+.:Miranda P3's.
+._JAYNA
+.:And P4's, sometimes.
+._MAJOR KING
+>:Course not. Well then, get used to
+>:something different. Factories are
+>:so busy tootin' out cores that the
+>:only handguns we've been graced
+>:with in the last decade is the good
+.:ole' Cutter.
+>.He treats them with a wide smile, and holds up his own
+>.pistol. Its an ancient piece of work, but a Soulcore frame
+>.has been hollowed into the chamber and filled with a gem
+..that's surface is just as dust-filled as its insides.
+._MAJOR King
+.:Here are yours.
+>.He folds up the file, places it into a drawer, and from
+>.inside pulls out two black gun holsters with Cutters tucked
+..within, placing them onto the desk.
+._MAJOR KING
+>:Pieces of crap. Synch 'em, load 'em
+.:and your done.
+>.Avalyn nods and picks hers up carefully, weighing it in her
+>.hands and examining the Soulcore. Just as King's had been,
+..the handgun was clearly in need of dusting and polishing.
+>.She then pressed the Soulcore against the crystal on her
+..forehead.
+>.Her Mind's Eye lit up white for a moment, emanating a low
+>.hum. Two seconds later, the Soulcore responded in kind,
+>.lasting another second before the pitches jumped up in
+..unison and then stopped.
+>.Jayna was also finishing up as Avalyn noticed something
+..about her Cutter's Soulcore.
+>.The frozen eye within appeared scattered and less clearly
+..defined, as if it were breaking apart.
+._AVALYN
+>:This Soulcore is about to die sir.
+.:Shouldn't we replace it?
+>.Looking up from her examination, she noticed Jayna had the
+..same suspicious look as she peered into her own Soulcore.
+._MAJOR KING
+>:Not my problem. You want better
+.:equipment, get it yourself.
+._JAYNA
+>:You're joking. What happens if
+.:we're in a firefight somewhere?
+..King bursts into a laugh.
+._MAJOR KING
+>:What do you think partners are for?
+.:Now go on.
+._JAYNA
+>:Wait, what about partners, task
+.:assignments, protocols?
+._MAJOR KING
+>:I'm a little busy here. Partners?
+>:Just use each other for now. Or ask
+>:someone else. No protocols for
+>:recruits 'cept get on the street
+.:and learn from your peers.
+..They stand there, dumbfounded.
+._MAJOR KING
+>:That means go. On patrol. Now. If
+>:you really wanna be useful, you can
+>:take these papers to the front desk
+.:while you're at it.
+>.He hands Avalyn a stack of papers of his desk. And picks up
+..another file to peruse.
+>.They still haven't moved, looking at each other. He looks up
+..again.
+._MAJOR KING
+>:Are you deaf? What are you waiting
+.:for?
+>.They resentfully turn about, open the door, and make their
+..exit.
+..King frustratedly sighs.
+._MAJOR KING
+.:Newbies.
+.\Int. Lobby, southeast military police station - day
+>.People are hustling around the work place, carrying papers
+..and boxes, and moving in and out the front double-doors. 
+>.Bound criminals with unique gagging devices covering their
+>.noses and mouths sit in chairs awaiting their fate. Several
+>.citizens are also waiting in separate chairs, waiting to
+..meet with officers.
+>.Avalyn and Jayna stroll through, their new Cutters strapped
+>.to their hips. Avalyn is carrying a stack of papers as Jayna
+..panics.
+._JAYNA
+>:This is a disaster! That man, as
+>:our superior. What are we gonna do?
+>:What am I gonna do? There's no
+.:going UP from here.
+.((shaking Avalyn)
+.:And why are you so relaxed?!
+._AVALYN
+>:If I didn't know any better, I'd
+>:say you weren't confident in your
+.:skills without a weapon.
+._JAYNA
+>:Wha-, no! I can handle myself
+.:perfectly fine.
+._AVALYN
+>:Well, we're rookies. It's expected
+>:that we wouldn't have strong
+>:opportunities at first. Just wait.
+>:Before you know it, we'll be
+>:joining my brother's squad and
+>:racing through the wilds on the
+.:"frontline".
+._JAYNA
+>:We better! Or I'm gonna have to
+>:hold you responsible. You're the
+>:one with the connections around
+.:here.
+..Avalyn sticks out her tongue at Jayna.
+._Cornelius (O.S.)
+.:Avalyn?
+..The two of them spin around towards the entrance.
+>.CORNELIUS (20) approaches. He wears a red and black
+>.operations uniform, and has Avalyn's scorched hair, though
+>.only about 2 inches long. Green eyes. Slender, but with
+..toned muscles.
+._AVALYN
+.:Oh, wow! What are you doing here?
+..She gives a light salute, to which Jayna follows suit.
+._Cornelius
+>:Sadly, I'm here for work. Just
+>:returned from an op. It's nice to
+.:see you.
+._AVALYN
+>:Likewise. You seem to have an idea
+.:of where you're go...
+>.She takes another look over her brother and realizes he's
+>.holding a tether to a pair of handcuffs. The one wearing
+..them is completely covered from head to toe in a dark cloak.
+._AVALYN
+.:Why are they dressed like that?
+>.Cornelius glances back behind him at another man in the same
+>.red and black uniform, carrying another tether connected to
+..the same handcuffs. 
+._CORNELIUS
+.((to his partner)
+.:I got this. You got the car?
+>.The man nodded and proceeded out the double doors. Then
+..Cornelius turned back to Avalyn
+._CORNELIUS
+>:I'm afraid people might panic if
+.:they saw her full appearance.
+..Avalyn and Jayna are still confused.
+._JAYNA
+.:"Her"?
+..Jayna moves in closer and sees under the person's hood.
+>.VERITA is revealed (15). Long black hair covers the left
+>.half of her youthful face, and the same gagging device with
+..screened slits for air covers her nose and mouth.
+._JAYNa
+>:For Rahz sake man, she's just a
+>:little girl! Look at her, all
+.:chained up and covered like this.
+._CORNELIUS
+.((whispering)
+>:She is NOT a "little girl". She's a
+>:Clansmen spy, so you might want to
+.:step ba-
+..Verita headbutts Jayna, giving her a nosebleed.
+._JAYNA
+>:OW! Filthy brat! Yeah. I see what
+.:you mean.
+>.Holding her nose from the pain, Jayna promptly kicks Verita
+..in the gut, causing her to double-over.
+._CORNELIUS
+.((turning to Avalyn)
+.:Who is this?
+._Avalyn
+>:This is my friend Jayna. Jayna, my
+.:brother Cornelius.
+._JAYNA
+.:Wait, THE Cornelius Zindler?
+>.Jayna's eyes grow wide and she suddenly throws herself into
+..a formal solute, bloodied nose and all.
+._JAYNA
+.:Absolute pleasure to meet you, sir.
+._CORNELIUS
+.((Uncomfortably)
+.:Yeah, sure. Likewise.
+.((to Avalyn)
+>:I've been asked to bring her
+>:straight over to headquarters as
+>:per orders from Dad, so that's
+.:where I'm headed.
+..He flicks his head towards the entrance.
+._AVALYN
+.:Dad? What for?
+._JAYNA
+.((excitedly)
+.:Research? Interrogation?
+._CORNELIUS
+>:Sorry guys. Need to know. Another
+>:time. I'll catch you later Avalyn.
+>:I put in a good word for you with
+>:the major, so sit tight. We'll be
+>:seeing each other sooner than you
+.:think.
+..He winks and starts leading Verita away towards the doors. 
+>.Jayna looks at Avalyn enviously as Avalyn watches her
+>.brother walk away, but seeing her expression, she goes into
+..friend-mode and puts her hand her shoulder.
+._JAYNA
+>:Come on. You'll see him soon,
+.:right? Let's head back.
+>.Suddenly, an escorted criminal between Avalyn and Cornelius
+>.elbows his escorting officer in the gut and kicks him in the
+..crotch.
+..He races towards the exit.
+._Criminal
+.:Move!
+>.He knocks into Verita, propelling her out of Cornelius'
+..grip.
+>.Verita's face slams into the corner of a desk, cracking the
+..device over her nose and mouth and causing it to fall off.
+>.Not realizing this, Cornelius tries to catch him, but
+>.misses. Officers closer to the door converge on him, pinning
+..him down to the ground.
+._CRIMINAL
+.:Let go of me!
+>.In the confusion, Verita comes to her senses. As Cornelius
+>.looks back at his prisoner, his eyes widen, recognizing what
+..happened.
+._CORNELIUS
+.:No...
+>.Before anyone else can respond, Verita pushes against the
+>.floor with all four limbs, leaping into Cornelius and
+..kicking off of him to land on a table effortlessly.
+..The cloak is flung off of her, fully exposing her face.
+>.Her black hair falls down to her shoulders, but the fullness
+>.of her face can now be seen, revealing a wild yellow
+>.beastial eye. She grins mischieviously as she exhales over
+..her bound hands.
+>.Cornelius moves to grab a gun from his own hip holster, but
+..he's too late.
+>.Little pointed worms of yellow light jet out from her breath
+..to pierce her bindings and then fly all across the room.
+>.They converge on Cornelius's weapon's already-charged
+..Soulcore and shatter it, to his dismay.
+>.Avalyn pulls out her Cutter and begins evoking it with
+..bullets.
+._AVALYN
+.:Power, destruction...
+._VERITA
+.:Luna, lights!
+>.The worms of light immediately dart about the room,
+>.destroying all of the lights and flooding the space with
+..darkness.
+>.A deep blue hue erupts from Avalyn's Cutter as she evokes a
+>.new clip, but the light is only strong enough to illuminate
+..the exact area she is in.
+>.Given the sudden appearance of spirits and the loss of
+..light, the station lobby falls into chaos.
+>.Criminals and citizens alike shout screams of panic. People
+..can be heard bumping into one another.
+..A tumble behind Avalyn.
+._JAYNA
+.:Hey, get off me!
+..Jayna's on the floor as someone has fallen onto her.
+>.Avalyn shoots above the doorway, using the projectile's
+>.light to inform her of an empty path, and then, seeing
+>.nothing in her way, rushes to the door, Cornelius right
+..beside her.
+..Arriving, they hurry to block the way.
+>.A shadowy figure comes flying through the air, targeting the
+..opening between them.
+>.Cornelius catches it and slams it into the ground. Avalyn
+..aims her weapon down at it.
+>.Turning it over, they flinch. It's the cloak, worn by a
+>.tangible shadow completey covered in eyes. The moment it's
+>.seen, it starts laughing, fading away into the cloak's
+..natural shadows.
+._CORNELIUS
+.:Wha...?
+>.Before they realize it, Verita is leaping through the doors
+..above them.
+._Verita
+.((playfully)
+.:Bye
+>.The worms of light follow behind her in the air, tracing her
+..trail as she escapes.
+._CORNELIUS
+.:Damn it!
+..Avalyn runs after her, shortly followed by Cornelius.
+._JAYNA
+.:Wait!
+>.Getting up, Jayna rushes through the doors as well, the
+..papers they were to deliver left forgotten.
+.\EXT. STREETS OF RAHZ - day
+>.Cars and people move along the streets as normal, getting in
+>.the way as Avalyn tries to keep up with Verita while
+..Cornelius and Jayna follow closely behind.
+._AVALYN
+.:Move it! Police!
+>.She can only barely keep a fix on Verita's path through the
+..crowd. 
+..Verita then turns down an alley.
+._CORNELIUS
+.:Avalyn, cut her off. 
+._AVALYN
+.:Got it.
+>.Avalyn passes the corner to proceed around the block,
+..increasing her speed.
+>.The moment Cornelius and Jayna turn the corner though, a
+..bright flash of light blinds and disables them.
+>.Avalyn stops herself and turns around, running back and
+..stopping at the edge of the alley.
+>.The two of them have their eyes tightly shut, hands
+..shielding their tightly shut eyes.
+._AVALYN
+.:You guys alright?
+._JAYNA
+.:Ahh, my eyes!
+._CORNELIUS
+.:Don't worry. Just go.
+>.He flicks a small card out from his uniform's chest pocket
+..and speaks into it.
+._CORNELIUS
+>:Agent in need of assistance.
+>:Clansmen fleeing north from Dithers
+>:and Benton. Two officers down,
+.:blinded.
+>.He then chucks the card into the air, and it speeds quickly
+..through the skies, carrying the message.
+>.She dips her head in and out of the alley, testing a
+>.response. Then, not seeing any flash, she peeked out for a
+..real look.
+>.The worms of light swirl and hover in the air. Upon her
+>.glance, they shift into a circular pattern perpendicular to
+..her and Verita's voice flows from the center.
+._VERITA
+.:Better luck next time Rahzian.
+._AVALYN
+.:Oh no you don't.
+>.She shoots at the swirling mass and it scatters, fading into
+..the air.
+..Irritated, she dashes down the alley in pursuit.
+>.Coming out the other end, she looks around but can't seem to
+..find the fugitive.
+..Then screams fill the air northeast of where she's facing.
+>.She runs across an opening in the street and then down the
+..road to her right. 
+>.Rounding another corner, she spots Verita for a split second
+>.diving over the far end of a bridge ahead of her, a stunned
+..and frightened family staring after her.
+..She holds the gun up to her face.
+._AVALYN
+.:An explosion, propelling, flying...
+>.She breathes into the Soulcore and the color shifts from a
+..blue hue to a light purple one.
+..Aiming the gun below her, she pulls the trigger.
+>.A massive empty force blasts against the concrete, cracking
+..it and sending her flying up into the air.
+>.In mid-air, she aims behind her and slightly down, firing
+>.once more to propel herself passed the buildings beside her
+..and over the edge of the river below.
+>.A pair of walls extend down from the bridge to a sewer lane
+..below, enclosing the river in a canal.
+>.On the side furthest from Avalyn, claw-like gouges trace a
+..path from the bridge down to the sewer line.
+>.A little further down the river, she spots Verita speeding
+..along the sewer lane.
+>.One shot parallel with the river later, and Avalyn flies
+..ahead of Verita.
+>.Allowing gravity to do the work, she falls towards the
+..river.
+.\RAHZ CANAL
+>.A few meters above the water, Avalyn shoots again, opposite
+..Verita, and charging towards the wall.
+>.Just before slamming into it, she shoots the wall, blasting
+>.more cracks into the stone, landing on her feet, and cutting
+..off Verita's route.
+..She aims the gun at Verita this time.
+._AVALYN
+>:Stop! You're under arrest. This
+>:shot won't kill you, but it'll hurt
+>:like hell and will probably break
+.:some bones.
+..Verita laughs, a wild smile on her face.
+>.She rushes at Avalyn, running along the wall and jumping
+..into the air for a pounce.
+..Avalyn pulls the trigger.
+>.A blast of energy ripples through space, but just before it
+>.meets Verita in mid-air, the worms of light appear from
+..behind her and form a shield in front.
+>.The light shield takes the brunt of the attack and shatters,
+..falling around Verita.
+..Avalyn's eyes widen. It's too late for another shot.
+>.Verita tackles Avalyn, pushing her to the ground on her
+..back.
+>.Avalyn scowls up at her attacker, but her expression quickly
+..switches to one of fear and disgust.
+>.Before her very eyes, Verita stretches out her right arm,
+..and it morphs into a large beastial limb with long claws.
+>.Avalyn can see the bloodlust in Verita's eyes. This is the
+..end.
+>.Avalyn looks away, flinching. But Verita's arm has stopped,
+..claws hovering mere inches from Avalyn's throat.
+>.Verita, looks over her shoulder to find a white flowing aura
+>.wrapping around her arm, preventing her from thrusting all
+..the way forward.
+>.She traces the aura back and around to over the river where
+>.a large spirit hovers above the water, staring at her
+..calmly.
+>.The spirit looks like a mythical Eastern dragon, a wolf, and
+>.a buck combined: a long face, antlers, long whiskers, fur,
+>.sharp teeth, and composed entirely of spirit aura, it easily
+..stretches 20 meters long.
+..Verita cautiously bows her head in reverence.
+>.Avalyn peeks up at Verita, amazed she's still alive. She
+>.follows Verita's gesture, and notices the spirit on the
+..river as well.
+._SIRAPH
+>:Young one, you are not to be her
+>:executioner, but her guide on the
+.:Marked journey.
+..Verita looks up with a shocked expression.
+._VERITA
+.:What?
+..Her grip weakens and Avalyn immediately takes this chance.
+>.Lifting her right hand with the weapon, she takes a shot at
+>.the large wolf-dragon, but the blast passes right through,
+..unphasing it.
+._AVALYN
+.:No way...
+>.Verita immediately increases the pressure with her left
+..hand, slightly choking Avalyn.
+._VERITA
+.:How dare you attack the Siraph!
+>.She immediately tears at the Soulcore in the gun, cracking
+..it open. The aura energy gushes out into the air.
+>.Verita has a pained expression as she rests her eyes on the
+..dead Soulcore.
+._VERITA
+.:I'm sorry.
+>.Without so much as a concern about being shot, the Siraph
+..moves forward and lightly breathes onto Avalyn's right hand.
+>.A reddish-gold mark carves itself painlessly onto her palm,
+..wrapping around the back of her hand.
+>.It looks like a swirl of particles, identical to a spirit's
+>.summoning, with an eye present at the same place on the
+..front and back.
+>.The Siraph then looks directly into Avalyn's eyes. Avalyn
+>.remains terrified, angling away from it as much as she can
+..under Verita's pressure.
+._SIRAPH
+>:Do not be afraid, Marked One. A
+>:blessing has been bestowed unto
+>:you, changing you in more ways than
+.:you realize.
+>.With her other hand, Avalyn tries to rub and scratch off the
+..Mark, to no avail. Her breathing escalates as panic sets in.
+._AVALYN
+.:What the hell did you do to me?
+>.Paying her no mind, the Siraph looks up at Verita who is
+..staring at the Siraph with tears in her eyes.
+._VERITA
+>:Please, Siraph. Please don't ask
+.:this of me.
+>.She's breaking down, tear drops falling onto Avalyn's face.
+..Avalyn doesn't know what to make of it.
+._SIRAPH
+>:Peace Verita. The world shall
+>:survive truth by your faith. Guide
+.:the Marked One as you once were.
+._VERITA
+>:I can't Siraph. Not a Rahzian, I
+.:just-
+..She starts choking up
+._SIRAPH
+>:You must Verita. For you are the
+.:only one who can.
+>.The Siraph breathes into her face and she shudders, sighing
+>.a moment. She starts pulling herself together and nods
+..despite sniffling, clearly in emotional pain.
+._VERITA
+.:Okay.
+>.The Siraph nods in return, and then begins to fade away,
+..disappearing entirely.
+>.Verita then looks back at Avalyn, hatred quelling the
+>.turmoil in her eyes. She starts to get up, pulling Avalyn
+..with her.
+._VERITA
+>:Alright, it's time to go. Follow me
+.:if you wanna stay sane.
+..Avalyn resists her efforts.
+._AVALYN
+.:No way. Let go of me.
+._VERITA
+>:We don't have time. Hurry up, or
+.:else-
+._CORNELIUS (O.S.)
+.:Avalyn! Catch!
+..Avalyn and Verita look up.
+.\RAHZ CANAL BRIDGe
+>.Cornelius is up on the bridge. He takes one of the cards,
+>.presses it against his Miranda P4, and the two merge into a
+..single ball of light.
+..He throws it at Avalyn, and it shoots straight at her.
+.\RAHZ CANAL
+>.A few meters before reaching her, it materializes into the
+>.weapon again, and Avalyn catches it, a grin appearing on her
+..face.
+..She raises the Soulcore to her mouth.
+._VERITA
+.:No, DON'T-
+>.Avalyn breathes onto the Soulcore and a light purple aura
+..revitalizes weapon.
+>.She's suddenly assaulted with screams and woes emanating
+>.from the Soulcore. The eye embedded in the chaotic storm of
+>.particles appears larger than she's ever seen it before as
+..its screeches buffet her ears.
+>.She drops the weapon, plugs her ears with her hands, and
+>.starts screaming herself. She's screaming louder than she
+..ever has in her entire life.
+>.Avalyn crumbles to her knees, doubles over, and then falls
+>.onto her side in a fetal position, sacrificing one of her
+>.ears' failing protection to grasp her tight chest with her
+..left hand.
+>.Tears are streaming down her face. Her eyes are panicked,
+..confused. Terrible pain and torment.
+>.A grunt is heard as Verita's claws come crashing down onto
+>.the dropped weapon's Soulcore, shattering it. The aura
+..rushes out as the soul within is expelled.
+>.The screams and pain suddenly vanish and Avalyn starts
+..taking in large gulps of air as she breathes while in shock. 
+>.She looks around herself in confusion, noticing that she's
+..now on the ground, but doesn't move due to exhaustion.
+.\RAHZ CANAL BRIDGE
+>.Meanwhile, Jayna has caught up to Cornelius on the bridge
+..and already charged her weapon.
+._JAYNA
+.:Avalyn, watch out!
+..She fires 3 blue shots of hot energy out of her Cutter.
+.\Rahz CANAL BRIDGE
+>.Two land in the water by the sewer line while the third
+..approaches Verita's position.
+>.Verita leaps back to dodge. A fourth shot is now coming her
+..way, and she backs off further.
+>.Seeing her situation, she turns to flee, leaping into the
+>.air several meters and using her right hands' claws to
+>.propel herself back up to street level by thrusting herself
+..up the wall.
+..She disappears beyond their sight.
+.\RAHZ CANAL BRIDGE
+>.Cornelius looks down at his sister with concern, but tears
+>.his face away and back up to the point where Verita
+..vanished.
+._CORNELIUS
+.:Avalyn's friend, Jayna?
+._JAYNA
+.:Yeah?
+._CORNELIUS
+.:Take care of her, will you?
+.((murderous)
+.:I've got business to take care of.
+>.He whips out a second Miranda P4 from inside his uniform,
+>.breathes a fiery hue into his Soulcore, and then rockets
+..through the skies in pursuit as flames scorch his path.
+.\RAHZ CANAL
+>.Jayna is running down the sewer lane towards Avalyn, a set
+..of stairs visible in the background.
+._JAYNA
+.:Avalyn! Avalyn?! Are you alright?
+>.She kneels down beside Avalyn, fingers brushing hair out of
+..her face.
+..Avalyn's eyes are vacant, off to the side.
+._Jayna
+.:Come on, speak to me girl.
+>.Avalyn turns to look at Jayna's face, a pained look in her
+..eyes.
+>.She can see Jayna's concern, but her vision blurs as she
+..passes out.
+._JAYNA
+.:Avalyn? No, no, AVALYN!
+>.She pulls a card out from a pocket just like Cornelius'. We
+>.can hear her speak with a weaker and weaker voice as we pull
+..back.
+._JAYNA
+>:This is Private Jayna Simmons.
+>:Officer down. Repeat, officer is
+.:down. Ambulance requested at...
+.\ABOVE the CANAL
+>.A beam of light can be seen shoot up into the sky and fly in
+..the direction of the police station.
+..Pause for effect.
